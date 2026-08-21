@@ -53,3 +53,6 @@ and initial content only.
 
 # Information
 - https://ruganijuice.co.za/our-story-our-founders/
+
+## NO ACTUAL AFFILIATION WITH REAL COMPANY
+## THIS IS A COLLEGE PROJECT
