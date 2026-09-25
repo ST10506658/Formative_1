@@ -6,8 +6,9 @@
 
 ## Project Overview
 A website for Greenway Farms, a small family-run farm business selling fresh
-vegetables to the local community. This is Part 1
-of a three-part project: HTML structure only
+vegetables, fruit, and free-range eggs to the local community. This is Part 1
+of a three-part project: HTML structure only (no CSS styling or JavaScript
+functionality yet).
 
 ## Website Goals and Objectives
 - Introduce Greenway Farms and its story to visitors.
@@ -37,7 +38,8 @@ and initial content only.
 - contact.html (Contact)
 
 ## Changelog
-- 2026/08/21 - Initial commit: basic HTML structure for all 5 pages, CSS/JS/images folders created.
+- [2026/08/21] - Initial commit: basic HTML structure for all 5 pages, CSS/JS/images folders created.
+- [2026/09/25] - Part 2: Added colour scheme, typography, and CSS Grid layout for products/team/locations. Added responsive breakpoint at 700px so the site stacks into a single column on mobile. Added focus-visible states and hover effects for basic accessibility.
 
 ## References
 ### Company Logo
